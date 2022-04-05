@@ -204,6 +204,7 @@
                     </view>
                     <connections>
                         <outlet property="adviceLabel" destination="ASf-wv-xL4" id="etj-Bb-XPJ"/>
+                        <outlet property="backgroungImageView" destination="kmq-OZ-H3d" id="AfA-7s-S0z"/>
                         <outlet property="bmiLabel" destination="wHe-vO-CwQ" id="yyc-cf-W8X"/>
                     </connections>
                 </viewController>
